@@ -26,7 +26,9 @@ display: flex;
 justify-content: end;
 align-items: center;
 }
-
+.slogan{
+  text-align: center;
+}
 .opt{
 flex: none;
 margin-left:20px;
@@ -103,5 +105,7 @@ p{
 h3{
   margin: 0;
 }
+
+
 
 
